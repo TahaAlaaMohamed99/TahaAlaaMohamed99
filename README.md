@@ -21,11 +21,13 @@ I am passionate about continuous learning and advancing my skills in frontend te
 ## 🏢 Professional Experience
 
 ### **Frontend Developer at Procoor**
-*July 2023 - Present (1 yr 3 mos)*  
+*July 2023 - *  
 **Location:** Cairo, Egypt (On-site)  
 **Responsibilities:**
 - Working on SaaS development using React Native.
 - Involved in various frontend development tasks and collaborating with the team to enhance user experiences.
+- **Currently employed and actively contributing to ongoing projects.**
+
 
 ### **Frontend Developer at Trend Marketing Solutions**
 *March 2021 - August 2022 (1 yr 6 mos)*  
