@@ -1,5 +1,5 @@
 
-![My Profile Picture](https://media.licdn.com/dms/image/v2/D4D16AQFfl26sCezwcw/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1725153116834?e=1730937600&v=beta&t=hHwuCLmAEsKHD5Y5F1auCc1aer2-PASN8YjAZJcWlaI)
+![My Profile Picture](https://media.licdn.com/dms/image/v2/D4D16AQHE7WuoCrODhw/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1725701984955?e=1730937600&v=beta&t=it8vBSkrTDLvk8MJkur1tFqeWutikTZBTFkGFKM1OSI)
 
 ## About Me
 
