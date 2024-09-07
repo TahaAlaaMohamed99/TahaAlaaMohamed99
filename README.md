@@ -35,15 +35,3 @@ I am passionate about continuous learning and advancing my skills in frontend te
 - Developed WordPress designs and managed e-commerce projects.
 - Contributed to frontend development and improved website functionality and user experience.
 
----
-
-**Note:** LinkedIn helped me get these jobs.
-
-## 📫 How to Reach Me
-
-- [LinkedIn](https://www.linkedin.com/in/taha-alaa-05612a2b7/)
-- [Email](tahaalaamohamed99@gmail.com) (Replace with your actual email address)
-
----
-
-Feel free to modify any section as needed!
