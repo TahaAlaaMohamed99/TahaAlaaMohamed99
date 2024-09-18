@@ -30,7 +30,7 @@ I am passionate about continuous learning and advancing my skills in frontend te
 
 
 ### **Frontend Developer at Trend Marketing Solutions**
-*March 2021 - August 2022 (1 yr 6 mos)*  
+*Jan 2021 - Jan 2022 · 1 yr 1 mos*  
 **Responsibilities:**
 - Developed WordPress designs and managed e-commerce projects.
 - Contributed to frontend development and improved website functionality and user experience.
