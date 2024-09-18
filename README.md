@@ -7,9 +7,8 @@ With over three years in the tech industry, I specialize in frontend development
 
 ## 🔧 Skills & Expertise
 
-- **Frontend Development:** HTML, CSS, SCSS, JavaScript, Bootstrap, jQuery, React.js, React Native, Expo
+- **Frontend Development:** HTML, CSS, SCSS, JavaScript, Bootstrap, jQuery, responsive web, reactjs, Redux, Redux toolkit. 
 - **Mobile Development:** Cross-platform mobile apps with React Native and Expo
-- **Web Development:** Dynamic and responsive web applications with React.js
 - **UI/UX Design:** User Research, Wireframing, Prototyping, Visual Design
 - **Tools & Technologies:** Git, REST APIs, Figma, Adobe XD, VS Code
 - **Performance Optimization:** Enhancing app performance and responsiveness
